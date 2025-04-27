@@ -21,7 +21,7 @@ output
   "mcpServers": {
     "server_name": {
       "command": "command",
-      "args": ["arg1", "arg2", ...]
+      "args": ["arg1", "arg2"]
     }
   }
 }
